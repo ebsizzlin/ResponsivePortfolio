@@ -1,3 +1,7 @@
+header {
+  font-family: "Varela Round", sans-serif;
+}
+
 nav {
   color: cadetblue;
   background-color: lavender;
@@ -6,26 +10,21 @@ nav {
 h1 {
   color: silver;
   padding-top: 5px;
+  font-family: "Varela Round", sans-serif;
 }
 
 body {
   background: lightblue;
-  padding-bottom: 20px;
+  padding-bottom: 40px;
+  font-family: "Varela Round", sans-serif;
 }
 
 .container {
   padding: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
-  width: 60%;
+  width: 80%;
   background-color: lightcyan;
-}
-
-#Ella {
-  display: grid;
-  place-items: center;
-  top: 50%;
-  bottom: 50%;
 }
 
 .image-thumbnail {
