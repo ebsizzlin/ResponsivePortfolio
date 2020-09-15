@@ -1,23 +1,50 @@
 nav {
-  color: gray;
+  color: cadetblue;
+  background-color: lavender;
 }
 
 h1 {
-  color: olive;
-  padding-top: 20px;
+  color: silver;
+  padding-top: 5px;
 }
 
 body {
   background: lightblue;
+  padding-bottom: 20px;
 }
 
 .container {
-  width: 100%;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 60%;
+  background-color: lightcyan;
 }
 
-image {
-  padding: 5px;
-  float: left;
-  max-height: 300px;
-  max-width: 300px;
+#Ella {
+  display: grid;
+  place-items: center;
+  top: 50%;
+  bottom: 50%;
+}
+
+.image-thumbnail {
+  padding: 20px;
+  max-width: 350;
+  max-height: 350;
+  object-fit: cover;
+}
+
+a:link {
+  color: cadetblue;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: whitesmoke;
+  color: gray;
+  text-align: center;
 }
