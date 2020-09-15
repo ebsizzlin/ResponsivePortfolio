@@ -1,0 +1,23 @@
+nav {
+  color: gray;
+}
+
+h1 {
+  color: olive;
+  padding-top: 20px;
+}
+
+body {
+  background: lightblue;
+}
+
+.container {
+  width: 100%;
+}
+
+image {
+  padding: 5px;
+  float: left;
+  max-height: 300px;
+  max-width: 300px;
+}
