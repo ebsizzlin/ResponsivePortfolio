@@ -18,8 +18,6 @@ This is a responsive portfolio website built using bootstrap and bootstrap grid.
 
 - whether i'm using semantic html correctly
 
-- if the dropdown toggle works (jQuery)
-
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/70185995/93279130-75b15d80-f794-11ea-90d9-02504b285c6a.png)
