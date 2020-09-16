@@ -5,6 +5,7 @@ header {
 nav {
   color: cadetblue;
   background-color: lavender;
+  position: sticky;
 }
 
 h1 {
@@ -34,16 +35,14 @@ body {
   object-fit: cover;
 }
 
-a:link {
+a {
   color: cadetblue;
 }
 
 footer {
   position: fixed;
-  left: 0;
+  right: 0;
   bottom: 0;
   width: 100%;
   background-color: whitesmoke;
-  color: gray;
-  text-align: center;
 }

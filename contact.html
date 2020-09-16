@@ -16,7 +16,7 @@
   </head>
 
   <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
       <a class="navbar-brand"><b>Ella Thompson</b></a>
       <button
         class="navbar-toggler"
@@ -28,6 +28,7 @@
         aria-label="Toggle navigation"
       >
         <span class="navbar-toggler-icon"></span>
+
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
@@ -61,7 +62,7 @@
               <b>Contact Me !</b>
             </h1>
             <section class="form-group">
-              <label for="exampleFormControlInput1">Name</label>
+              <label for="exampleFormControlInput1"><u>Name</u></label>
               <input
                 type="name"
                 class="form-control"
@@ -70,7 +71,7 @@
               />
             </section>
             <section class="form-group">
-              <label for="exampleFormControlInput1">Email</label>
+              <label for="exampleFormControlInput1"><u>Email</u></label>
               <input
                 type="email"
                 class="form-control"
@@ -79,7 +80,7 @@
               />
             </section>
             <section class="form-group">
-              <label for="exampleFormControlTextarea1">Message</label>
+              <label for="exampleFormControlTextarea1"><u>Message</u></label>
               <textarea
                 class="form-control"
                 id="exampleFormControlTextarea1"
@@ -95,11 +96,31 @@
   </body>
 
   <footer>
-    <a href="https://github.com/ebsizzlin"><i>GitHub</i></a>
-    <br />
-    <a href="https://www.linkedin.com/in/ella-thompson-05ba52126/"
-      ><i>LinkedIn</i></a
-    >
-    <br />
-    <a href="https://www.instagram.com/e_sizzle7/"><i>Insta</i></a>
+    <ul class="nav nav-pills nav-fill">
+      <li class="nav-item">
+        <a class="nav-link" href="https://github.com/ebsizzlin">GitHub</a>
+      </li>
+      <li class="nav-item">
+        <a
+          class="nav-link"
+          href="https://www.linkedin.com/in/ella-thompson-05ba52126/"
+          >LinkedIn</a
+        >
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.instagram.com/e_sizzle7/"
+          >Insta</a
+        >
+      </li>
+      <li class="nav-item">
+        <a
+          class="nav-link"
+          href="https://letterboxd.com/ebsizzlin/"
+          tabindex="-1"
+          aria-disabled="true"
+          >Letterboxd</a
+        >
+      </li>
+    </ul>
+  </footer>
 </html>
