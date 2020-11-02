@@ -35,8 +35,10 @@ body {
   object-fit: cover;
 }
 
-img {
-  text-align: center;
+#Ella {
+  display: block;
+  margin: 0 auto;
+  max-width: 50%;
 }
 
 a {
