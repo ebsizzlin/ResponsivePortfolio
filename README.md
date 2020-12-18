@@ -9,6 +9,6 @@ HTML, CSS (Bootstrap)
 
 ## Screenshots
 
-<img width="1920" alt="Screen Shot 2020-11-01 at 11 57 42 PM" src="https://user-images.githubusercontent.com/70185995/97831475-24a2ed80-1c9e-11eb-82fd-fc3147c450d6.png">
-<img width="1919" alt="Screen Shot 2020-11-01 at 11 58 10 PM" src="https://user-images.githubusercontent.com/70185995/97831480-27054780-1c9e-11eb-9e6c-df891be331c4.png">
-<img width="1920" alt="Screen Shot 2020-11-01 at 11 58 19 PM" src="https://user-images.githubusercontent.com/70185995/97831482-2967a180-1c9e-11eb-9bcf-db8134bae86c.png">
+<img width="1682" alt="Screen Shot 2020-12-18 at 11 42 56 AM" src="https://user-images.githubusercontent.com/70185995/102638935-45c47e00-4126-11eb-95d6-5a9c26464f6a.png">
+<img width="1680" alt="Screen Shot 2020-12-18 at 11 43 20 AM" src="https://user-images.githubusercontent.com/70185995/102638939-46f5ab00-4126-11eb-8bef-32131c187086.png">
+<img width="1680" alt="Screen Shot 2020-12-18 at 11 42 31 AM" src="https://user-images.githubusercontent.com/70185995/102638941-478e4180-4126-11eb-998d-a052bdf6e359.png">
